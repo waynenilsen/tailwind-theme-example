@@ -1,0 +1,20 @@
+:root {
+  /* Base colors */
+  --color-primary: #4a90e2; /* Light Blue */
+  --color-secondary: #8ab4f8; /* Lighter Blue */
+  --color-accent: #f0f4f8; /* Very Light Blue/Grey */
+  --color-neutral: #a0aec0; /* Medium Grey */
+  --color-base: #ffffff; /* White */
+
+  /* Semantic colors */
+  --color-info: #4a90e2; /* Light Blue (same as primary) */
+  --color-success: #10b981; /* Green */
+  --color-warning: #f59e0b; /* Yellow */
+  --color-error: #ef4444; /* Red */
+
+  /* Additional brand colors */
+  --color-brand-light: #e8f0fe; /* Very Light Blue */
+  --color-brand-dark: #2c5282; /* Darker Blue */
+}
+
+/* We'll remove the dark mode for now, as you requested a light theme */
